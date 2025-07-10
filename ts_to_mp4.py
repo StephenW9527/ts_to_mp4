@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-import ffmpeg
+# import ffmpeg
 import os
 
 # 建立主視窗
